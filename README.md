@@ -1,2 +1,2 @@
 # kata
-Rumpf für einfache Tests
+Rumpf für JUnit4-Testing
